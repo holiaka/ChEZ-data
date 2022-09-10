@@ -1,3 +1,2 @@
 # ChEZ-data
-
-Results of modeling
+Modeling results
