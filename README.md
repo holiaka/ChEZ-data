@@ -1,2 +1,0 @@
-# ChEZ-data
-Modeling results
