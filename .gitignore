@@ -111,3 +111,4 @@ dist
 # TIFF and TIF files
 .tif
 .tiff
+*.tif
