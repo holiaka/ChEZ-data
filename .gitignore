@@ -108,7 +108,8 @@ dist
 .tiff
 
 
-# TIFF and TIF files
+# PKL files
+.pkl
 .tif
 .tiff
 *.tif
