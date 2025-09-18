@@ -5,11 +5,11 @@ This repository contains datasets and related materials for research on forest e
 """
 
 ## Description
-The data are provided to support scientific studies on:
+The data are provided to support:
 - Forest biomass and growing stock estimation
-- Radionuclide contamination (Cs-137, Sr-90) in tree wood and soils in Chornobyl forests
+- Analysis of radionuclide contamination (Cs-137, Sr-90) in tree wood and soils in Chornobyl forests
 - Spatial analysis and mapping of ecological parameters
-- Applications of machine learning (XGBoost algorithms) in environmental modeling
+- Applications of ML algorithms in environmental modeling
 
 ## Repository Structure
 - `ChEZ-data/Supplementary_materials_2023/` is the first dataset and models collection in the research, where:  
@@ -23,7 +23,7 @@ The data are provided to support scientific studies on:
 
 ## Citation
 If you use these data in your research, please cite the archived version of this repository:
-Holiaka, D., Zadorozhniuk, R., Levchuk, S., Holiaka, M., Kiva, O., Lesnik, O. & Diachuk, P. (2025). ChEZ-data: Datasets of stand parameters and radionuclide content in forest components (wood and soil) with results training ML models based on them for estimating ecological and economical roles of woody ecosystems in the Chornobyl Exclusion Zone [Data set]. (Version 1.0.2). Zenodo. https://doi.org/10.5281/zenodo.17155484
+Holiaka, D., Zadorozhniuk, R., Levchuk, S., Holiaka, M., Kiva, O., Lesnik, O. & Diachuk, P. (2025). ChEZ-data: Datasets of stand parameters and radionuclide content in forest components (wood and soil) with results training ML models based on them for estimating ecological and economical roles of woody ecosystems in the Chornobyl Exclusion Zone [Data set]. (All versions). https://doi.org/10.5281/zenodo.17155398
 
 ## License
 The contents of this repository are released under the **MIT License** (see LICENSE file).
