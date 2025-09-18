@@ -23,7 +23,7 @@ The data are provided to support scientific studies on:
 
 ## Citation
 If you use these data in your research, please cite the archived version of this repository:
-Holiaka, D., Zadorozhniuk, R., Levchuk, S., Holiaka, M., Kiva, O., Lesnik, O. & Diachuk, P. (2025). ChEZ-data: Datasets of stand parameters and radionuclide content in forest components (wood and soil) with results training ML models based on them for estimating ecological and economical roles of woody ecosystems in the Chornobyl Exclusion Zone [Data set]. (Version 1.0.2). Zenodo. https://doi.org/10.5281/zenodo.17155400
+Holiaka, D., Zadorozhniuk, R., Levchuk, S., Holiaka, M., Kiva, O., Lesnik, O. & Diachuk, P. (2025). ChEZ-data: Datasets of stand parameters and radionuclide content in forest components (wood and soil) with results training ML models based on them for estimating ecological and economical roles of woody ecosystems in the Chornobyl Exclusion Zone [Data set]. (Version 1.0.2). Zenodo. https://doi.org/10.5281/zenodo.17155484
 
 ## License
 The contents of this repository are released under the **MIT License** (see LICENSE file).
