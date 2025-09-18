@@ -5,7 +5,7 @@ This repository contains datasets and related materials for research on forest e
 """
 
 ## Description
-The data are provided to support:
+The data and ML models are provided to support:
 - Forest biomass and growing stock estimation
 - Analysis of radionuclide contamination (Cs-137, Sr-90) in tree wood and soils in Chornobyl forests
 - Spatial analysis and mapping of ecological parameters
