@@ -22,7 +22,7 @@ The data and ML models are provided to support:
 - `ChEZ-data/Supplementary_materials_2024 (adapted ver)/` is the dataset with models collection of the investigations as of 2024/09/18; structure similar to `ChEZ-data/Supplementary_materials_2023/`.
 
 ## Citation
-If you use these data in your research, please cite the archived version (v1.0.4) of this repository:
+If you use these data in your research, please cite the archived version (v1.0.5) of this repository:
 >Holiaka, D. (2025). ChEZ-data: Datasets of stand parameters and radionuclide content in forest components (wood and soil) with results training ML models based on them for estimating ecological and economical roles of woody ecosystems in the Chornobyl Exclusion Zone [Data set]. (All versions). https://doi.org/10.5281/zenodo.17155398
 
 ## License
